@@ -1,0 +1,40 @@
+
+.text-box{
+    text-align: center; 
+}
+
+.btn{
+    text-align: center;
+}
+
+.btn1:hover {
+            background-color: rgba(217, 216, 214, 0.961);
+            transform:scale(1.05);
+}
+
+.btn1:focus{
+    background-color: rgba(137, 136, 134, 0.961);
+    transform:scale(1.05);
+}
+
+div.container {
+    text-align: center;
+    margin: 3vh;
+    margin-left: 40%;
+    max-width:25%;
+    
+  }
+  
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+
+  .muUL:hover{
+    background-color: aqua;
+  }
+
+  #lists:hover{
+    background-color: aqua;
+    
+  }
